@@ -1,0 +1,26 @@
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\bin\Debug\Guna.UI2.dll
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.AssemblyReference.cache
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.frmPhotoEditor.resources
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.cache
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CoreCompileInputs.cache
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CopyComplete
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+C:\Users\sagar\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\bin\Debug\Guna.UI2.dll
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.AssemblyReference.cache
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.SuggestedBindingRedirects.cache
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.frmPhotoEditor.resources
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.cache
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CoreCompileInputs.cache
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CopyComplete
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+D:\SIBAU\BSCS-V\Visual Programming\Project\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
